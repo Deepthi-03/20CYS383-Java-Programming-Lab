@@ -1,6 +1,0 @@
-def reverse(str,b):
-    for i in range(b-1,-1,-1):
-        print(str[i], end="")
-str="deepthi"
-b=len(str)
-reverse(str,b)
